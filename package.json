@@ -43,6 +43,6 @@
     "typescript": "^3.3.3333"
   },
   "dependencies": {
-    "query-string": "^6.3.0"
+    "query-string": "^5.1.1"
   }
 }
